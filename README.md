@@ -1,4 +1,4 @@
-# Welcome to TTLoRAMoE-SC25's Documentation
+# Welcome to TTLoRAMoE Documentation
 
 This repository correponds to the article  **"TT-LoRA MoE: Unifying Parameter-Efficient Fine-Tuning and Sparse Mixture-of-Experts."** The Contribution of this paper is the introduction of methods to solve inter-task interference and catastrophic forgetting, which commonly arise when fine-tuning large language models (LLMs) for multi-task learning scenarios. To this end, we propose a scalable and reproducible Mixture of Experts (MoE) architecture enhanced with TT-LoRA (Tensor Train Low-Rank Adaptation) and a learned routing mechanism that selects experts dynamically per input. This modular framework ensures parameter efficiency, task specialization, and adaptability to diverse datasets. Below are the contributions of the paper:
 
